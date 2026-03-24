@@ -158,6 +158,9 @@ El browser bloquea llamadas HTTP desde una página HTTPS. Por eso tanto Apache c
 <img width="475" height="174" alt="image" src="https://github.com/user-attachments/assets/1eeef210-a45a-42a0-847d-76021b815b62" />
 
 ---
+## Video
+
+https://youtu.be/_ZDVknc1_O0
 
 ## Estructura del proyecto
 
