@@ -1,6 +1,8 @@
 # Taller de Arquitectura Segura — SecureSpring
+# Samuel Antonio Gil Romero 
 
 Aplicación web segura desplegada en AWS con dos servidores: Apache (frontend) y Spring Boot (backend), ambos con HTTPS.
+
 
 ## Arquitectura
 
